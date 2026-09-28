@@ -1,6 +1,6 @@
-# ⚡ Ray Studios
+# Ray Studios
 
-Welcome to the digital infrastructure hub of **Ray Studios**. We build and optimize high-performance backend platforms, real-time server networks, and custom developer tools. 
+Welcome to **Ray Studios**. We build and optimize high-performance backend platforms, real-time server networks, and custom developer tools. 
 
 From low-latency game sockets to production web APIs, our focus is entirely on stable, efficient systems engineering.
 
